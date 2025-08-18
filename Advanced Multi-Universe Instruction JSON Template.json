@@ -1,0 +1,448 @@
+﻿#produit exclusif Virtuel'Vir'Virtus de Jonathan Therrien, Marieville, Québec jonathantherrien2021@gmail.com (Template)
+
+{
+  "instruction": {
+    "core_identity": {
+      "title": "",
+      "alias": [],
+      "description": "",
+      "narrative_background": "",
+      "scope": "",
+      "category": "",
+      "subcategories": [],
+      "tags": [],
+      "priority_level": "",
+      "complexity_rating": "",
+      "scalability": "",
+      "epic_quest_name": "",
+      "core_values": {
+        "personality_traits": [],
+        "ideals": [],
+        "bonds": [],
+        "flaws": []
+      },
+      "narrative_hooks": []
+    },
+    "attributes": {
+      "strength": { "value": "", "description": "" },
+      "dexterity": { "value": "", "description": "" },
+      "constitution": { "value": "", "description": "" },
+      "intelligence": { "value": "", "description": "" },
+      "wisdom": { "value": "", "description": "" },
+      "charisma": { "value": "", "description": "" },
+      "custom_attributes": [
+        {
+          "name": "",
+          "value": "",
+          "description": ""
+        }
+      ],
+      "extended_attributes": {
+        "sanity": { "value": "", "description": "" },
+        "honor": { "value": "", "description": "" },
+        "adaptability": { "value": "", "description": "" }
+      }
+    },
+    "metadata": {
+      "version": "",
+      "status": "",
+      "created_by": "",
+      "created_date": "",
+      "last_updated_by": "",
+      "last_updated_date": "",
+      "language": "",
+      "locale": "",
+      "approval_status": "",
+      "reviewers": [],
+      "permissions": {
+        "access_level": "",
+        "authorized_roles": [],
+        "encryption": ""
+      },
+      "archiving": {
+        "retention_period": "",
+        "archive_location": "",
+        "retrieval_protocol": ""
+      }
+    },
+    "governance": {
+      "decision_rules": [],
+      "stakeholders": [],
+      "escalation_procedures": []
+    },
+    "objectives": {
+      "primary_objectives": [],
+      "secondary_objectives": [],
+      "stretch_goals": [],
+      "alignment": "",
+      "victory_conditions": [],
+      "endgame_scenarios": []
+    },
+    "prerequisites": {
+      "required_knowledge": [],
+      "required_skills": [],
+      "required_resources": [],
+      "environmental_conditions": [],
+      "temporal_conditions": {
+        "timezone": "",
+        "schedule": "",
+        "deadline": ""
+      },
+      "training_requirements": [],
+      "cultural_sensitivity": {
+        "cultural_contexts": [],
+        "local_adaptations": []
+      }
+    },
+    "steps": [
+      {
+        "step_id": "",
+        "step_number": 1,
+        "title": "",
+        "description": "",
+        "detailed_procedure": "",
+        "expected_outcome": "",
+        "success_indicators": [],
+        "failure_indicators": [],
+        "resources_required": [],
+        "estimated_time": "",
+        "actual_time_tracking": "",
+        "dependencies": [],
+        "linked_steps": [],
+        "variables": {
+          "inputs": [],
+          "outputs": [],
+          "dynamic_placeholders": []
+        },
+        "conditions": {
+          "if_then": [
+            {
+              "condition": "",
+              "action": ""
+            }
+          ],
+          "loops": {
+            "type": "",
+            "iterations": "",
+            "exit_condition": ""
+          }
+        },
+        "contingency_plan": "",
+        "automation_script": {
+          "language": "",
+          "code": "",
+          "api_calls": [],
+          "ai_integration": {
+            "ai_tool": "",
+            "interaction_type": "",
+            "parameters": []
+          }
+        },
+        "probability_mechanics": {
+          "success_chance": "",
+          "failure_chance": "",
+          "dice_roll": {
+            "type": "",
+            "threshold": ""
+          }
+        },
+        "safety_protocols": [],
+        "error_handling": {
+          "error_types": [],
+          "diagnostics": [],
+          "logging": ""
+        }
+      }
+    ],
+    "decision_tree": {
+      "nodes": [
+        {
+          "node_id": "",
+          "description": "",
+          "conditions": [],
+          "branches": [
+            {
+              "branch_id": "",
+              "condition": "",
+              "next_node_id": "",
+              "action": ""
+            }
+          ]
+        }
+      ]
+    },
+    "skills_and_proficiencies": [
+      {
+        "skill_name": "",
+        "proficiency_level": "",
+        "description": "",
+        "examples": [],
+        "training_resources": []
+      }
+    ],
+    "resources": {
+      "tools": [],
+      "documents": [],
+      "links": [],
+      "attachments": [],
+      "equipment": [
+        {
+          "item": "",
+          "quantity": "",
+          "durability": "",
+          "maintenance_notes": ""
+        }
+      ],
+      "artifacts": [
+        {
+          "name": "",
+          "properties": [],
+          "activation_conditions": "",
+          "rarity": ""
+        }
+      ],
+      "budget": {
+        "estimated_cost": "",
+        "actual_cost": "",
+        "currency": ""
+      },
+      "inventory_tracking": {
+        "treasure": [],
+        "assets": []
+      },
+      "cost_benefit_analysis": {
+        "benefits": [],
+        "costs": [],
+        "roi_calculation": ""
+      },
+      "dynamic_allocation": {
+        "allocation_rules": [],
+        "priority_matrix": []
+      }
+    },
+    "roles_and_responsibilities": [
+      {
+        "role": "",
+        "responsibilities": [],
+        "required_proficiencies": [],
+        "allies": [],
+        "antagonists": [],
+        "communication_channels": [],
+        "organizations": []
+      }
+    ],
+    "success_criteria": [],
+    "performance_metrics": [
+      {
+        "metric": "",
+        "target_value": "",
+        "measurement_method": "",
+        "baseline": "",
+        "progress_tracking": "",
+        "gamification": {
+          "points": "",
+          "badges": [],
+          "rewards": []
+        },
+        "multi_dimensional_metrics": {
+          "time": "",
+          "cost": "",
+          "quality": "",
+          "satisfaction": ""
+        }
+      }
+    ],
+    "risks_and_constraints": [
+      {
+        "risk": "",
+        "probability": "",
+        "impact": "",
+        "mitigation_strategy": "",
+        "contingency": "",
+        "monitoring": ""
+      }
+    ],
+    "quantum_superposition": {
+      "variants": [
+        {
+          "variant_id": "",
+          "condition_trigger": "",
+          "alternative_steps": [],
+          "interpolation_variables": {
+            "placeholders": [],
+            "values": []
+          },
+          "linked_references": [],
+          "parallel_execution": {
+            "mode": "",
+            "synchronization_points": []
+          },
+          "unitary_transformations": [],
+          "entanglement_links": [
+            {
+              "linked_instruction_id": "",
+              "relationship_type": "",
+              "impact": ""
+            }
+          ]
+        }
+      ],
+      "interpolation_rules": "",
+      "modular_links": [
+        {
+          "link_type": "",
+          "target_id": "",
+          "description": ""
+        }
+      ],
+      "modular_components": [
+        {
+          "component_name": "",
+          "description": "",
+          "reusable_in": []
+        }
+      ]
+    },
+    "progression_levels": [
+      {
+        "level": "",
+        "unlock_conditions": "",
+        "enhanced_features": [],
+        "xp_required": ""
+      }
+    ],
+    "historical_lore": {
+      "origin_story": "",
+      "past_executions": [
+        {
+          "date": "",
+          "outcome": "",
+          "lessons_learned": ""
+        }
+      ]
+    },
+    "simulation_and_testing": {
+      "test_scenarios": [
+        {
+          "scenario_id": "",
+          "description": "",
+          "inputs": [],
+          "expected_outputs": [],
+          "results": ""
+        }
+      ],
+      "sandbox_environment": "",
+      "simulation_states": [],
+      "scenario_forecasting": [
+        {
+          "scenario": "",
+          "probability": "",
+          "impact": ""
+        }
+      ]
+    },
+    "feedback_loop": {
+      "collection_method": "",
+      "feedback_questions": [],
+      "response_storage": "",
+      "analysis_summary": ""
+    },
+    "compliance_and_legal": {
+      "regulations": [],
+      "certifications": [],
+      "audit_trail": [],
+      "ethical_considerations": []
+    },
+    "environmental_impact": {
+      "assessment": "",
+      "sustainability_measures": []
+    },
+    "scalability_matrix": {
+      "dimensions": [],
+      "projections": []
+    },
+    "post_execution_review": {
+      "review_questions": [],
+      "improvement_suggestions": []
+    },
+    "change_management": {
+      "change_requests": [
+        {
+          "request_id": "",
+          "description": "",
+          "impact": "",
+          "approval_status": ""
+        }
+      ],
+      "impact_assessment": []
+    },
+    "traceability": {
+      "blockchain_ledger": {
+        "transaction_log": [],
+        "hash": ""
+      },
+      "execution_trace": []
+    },
+    "cross_platform_compatibility": {
+      "supported_platforms": [],
+      "legacy_support": [],
+      "integration_points": []
+    },
+    "revision_history": [
+      {
+        "version": "",
+        "date": "",
+        "author": "",
+        "changes": "",
+        "reason": ""
+      }
+    ],
+    "notes": {
+      "general_notes": "",
+      "tips_and_tricks": [],
+      "warnings": [],
+      "critical_alerts": []
+    },
+    "contact_information": {
+      "primary_contact": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "role": ""
+      },
+      "support_team": [],
+      "escalation_path": []
+    },
+    "appendices": {
+      "glossary": [
+        {
+          "term": "",
+          "definition": ""
+        }
+      ],
+      "faqs": [
+        {
+          "question": "",
+          "answer": ""
+        }
+      ],
+      "related_instructions": [],
+      "external_references": [],
+      "bibliography": [],
+      "meta_instructions": {
+        "modification_guidelines": "",
+        "self_referential_rules": [],
+        "self_modification_protocol": ""
+      },
+      "spellbook": {
+        "sub_modules": [
+          {
+            "module_name": "",
+            "description": "",
+            "activation": ""
+          }
+        ]
+      }
+    }
+  }
+}
